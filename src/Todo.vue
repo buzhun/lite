@@ -23,7 +23,7 @@ export default {
           'text': 'chean the house',
         },
         {
-          'text': 'chean the house',
+          'text': 'wash the dash',
         }
       ],
       todo: ''
